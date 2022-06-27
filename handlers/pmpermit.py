@@ -7,7 +7,7 @@ from main import SUDO_USERS as Adminsettings, LOG_GROUP
 from handlers.help import *
 from main import ALIVE_PIC
 
-Alive_msg = f"𝐙𝐚𝐢𝐝 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 𝐏𝐫𝐨𝐭𝐞𝐜𝐭𝐢𝐨𝐧 🔱 \n\n"
+Alive_msg = f"𝐍𝐎𝐁𝐈𝐓𝐀 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 𝐏𝐫𝐨𝐭𝐞𝐜𝐭𝐢𝐨𝐧 🔱 \n\n"
 Alive_msg += f"◈ ━━━━━━ ◆ ━━━━━━ ◈ \n"
 Alive_msg += f"► ᴠᴇʀsɪᴏɴ : `Beta.0.1` \n"
 Alive_msg += f"► ᴘʏʀᴏ ᴠᴇʀsɪᴏɴ : `1.4.15` \n"
